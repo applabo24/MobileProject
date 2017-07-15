@@ -1,0 +1,17 @@
+﻿################################################################################
+# この .gitignore ファイルは Microsoft(R) Visual Studio によって自動的に作成されました。
+################################################################################
+
+/.vs/Solution1/v14
+/appXamarin01.Core/bin/Debug
+/appXamarin01.Core/obj/Debug
+/appXamarin01.Droid/bin/Debug
+/appXamarin01.Droid/obj/Debug
+/appXamarin01.iOS/bin/iPhone/Debug
+/appXamarin01.iOS/obj/iPhone/Debug
+/appXamarin01.Core/bin/Release
+/appXamarin01.Core/obj/Release
+/appXamarin01.Droid/bin/Release
+/appXamarin01.Droid/obj/Release
+/appXamarin01.iOS/bin/iPhone/Release
+/appXamarin01.iOS/obj/iPhone/Release
